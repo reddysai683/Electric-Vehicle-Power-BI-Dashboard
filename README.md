@@ -1,0 +1,1 @@
+This Power BI project provides a visual experience to analyze various insights about the sales and usage trends of electric vehicles in the United States, enabling us to draw useful information for further research and policy-making.
